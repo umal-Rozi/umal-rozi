@@ -1,3 +1,6 @@
+<img scr ="https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/1-coder-programming-it-female-programmer-gift-muc-designs.jpg" 
+width="100%"><br>
+
 <h1 align="center">Hi 👋, I'm Umal_Rozi</h1>
 <h3 align="center">A passionate full-stack web developer from somalia</h3>
 
