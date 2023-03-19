@@ -8,7 +8,7 @@ width="100%"><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umal-rozi&label=Profile%20views&color=0e75b6&style=flat" alt="umal-rozi" /> </p>
 - 🌱 I’m currently learning **js,  React,  NodeJs**
 
-- 💬 Ask me about **react  , js**
+- 💬 Ask me about **react**
 
 - 📫 How to reach me **umulkhairapdirahman@gmail.com**
 
