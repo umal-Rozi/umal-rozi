@@ -1,18 +1,10 @@
-<img scr ="https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/1-coder-programming-it-female-programmer-gift-muc-designs.jpg" 
-width="100%"><br>
+Hi My name is umulkhair Abdirahman
+Developer. designer. digital Marketing.
+umulkhair Abdirahman is a web Developer, designer, and digital Marketer with a passion for working developers through content. He is a full-time Technical Content Creator with years of experience in Software Development and  web Developer .
 
-<h1 align="center">Hi 👋, I'm Umal_Rozi</h1>
-<h3 align="center">A passionate full-stack web developer from somalia</h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umal-rozi&label=Profile%20views&color=0e75b6&style=flat" alt="umal-rozi" /> </p>
-- 🌱 I’m currently learning **js,  React,  NodeJs**
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **umulkhairapdirahman@gmail.com**
-
-- ⚡ Fun fact **😊**
+🌍  I'm based in Hargeisa, Somalia
+🧠  I'm learning everything JavaScript & React
+😄 Pronouns: he/him
 
 
 
