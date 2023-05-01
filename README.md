@@ -1,9 +1,9 @@
 Hi My name is umulkhair Abdirahman <br>
-Developer. designer. digital Marketing.
+Developer. designer. digital Marketing. <br>
 umulkhair Abdirahman is a web Developer, designer, and digital Marketer with a passion for working developers through content. He is a full-time Technical Content Creator with years of experience in Software Development and  web Developer .
 
-🌍  I'm based in Hargeisa, Somalia
-🧠  I'm learning everything JavaScript & React
+🌍  I'm based in Hargeisa, Somalia <br>
+🧠  I'm learning everything JavaScript & React <br>
 😄 Pronouns: he/him
 
 
