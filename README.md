@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **umulkhairapdirahman@gmail.com**
 
-- ⚡ Fun fact **😊**
+- ⚡ Fun fact **😊🧕**
 
 
 
