@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **js React Node.js**
 
-- 💬 Ask me about **react js**
+
 
 - 📫 How to reach me **umulkhairapdirahman@gmail.com**
 
