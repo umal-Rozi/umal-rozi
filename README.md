@@ -15,6 +15,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umal-rozi&show_icons=true&locale=en" alt="umal-rozi" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umal-rozi&" alt="umal-rozi" /></p>
