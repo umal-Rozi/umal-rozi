@@ -2,8 +2,7 @@
 <h3 align="center">A passionate full-stack web developer from somalia</h3>
 <p align="left"> <a href="https://twitter.com/rozi_umal" target="blank"><img src="https://img.shields.io/twitter/follow/rozi_umal?logo=twitter&style=for-the-badge" alt="rozi_umal" /></a> </p>
 
-![image](https://github.com/umal-Rozi/umal-rozi/assets/109276151/94ae09ca-4554-4f1a-b045-8efa142b0e6d)
-
+![Green_Gaming_Channel_YouTube_Channel_Art__1_-removebg-preview](https://github.com/umal-Rozi/umal-rozi/assets/109276151/f6b920d0-7405-4f61-9fbc-f51e2babc43e)
 
 
 
