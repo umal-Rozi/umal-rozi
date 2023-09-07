@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **React,**
 
