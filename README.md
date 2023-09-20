@@ -5,7 +5,6 @@
 ![image](https://github.com/umal-Rozi/umal-rozi/assets/109276151/6aefee34-69cd-4133-92b8-89cbf673d6b7)
 
 
-
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **React,**
