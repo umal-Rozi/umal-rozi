@@ -3,7 +3,6 @@
 <h3 align="center">JavaScript , React , .NET Developer</h3>
 
 
-- 🌱 I’m currently learning ** JavaScript || React || Node**
 
 
 
